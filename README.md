@@ -23,24 +23,11 @@
 
 
 
-# 📖 OOP school library <a name="about-project"></a>
+# 📖 Test Driven Developmen <a name="about-project"></a>
 
 
-**OOP school library**
-This project focused on building a Ruby school library app. Key achievements include:
-1- Implemented three classes: Person, Student, and Teacher.
-2- Utilized encapsulation and inheritance principles.
-3- Enabled command-line program execution.
-4- Followed Ruby best practices for code quality and documentation.
-
-This foundational work sets the stage for future app development and functionality expansion.
-
-
-
-
-
-
-
+**Test Driven Development**
+Test Driven Development is an experimental project that we create to learn more about making test first and code after. Built with Ruby
 
 ## 🛠 Built With <a name="built-with"></a>
 
