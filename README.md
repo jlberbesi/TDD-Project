@@ -44,10 +44,11 @@ Test Driven Development is an experimental project that we create to learn more 
 
 ### Key Features <a name="key-features"></a>
 
-- **[Class Hierarchy: Implemented a hierarchy of classes including Person, Student, and Teacher for modeling individuals in a school setting.]**
-- **[Encapsulation and Inheritance: Demonstrated mastery of object-oriented principles by encapsulating data and behaviors and using inheritance to share common attributes.]**
-- **[Command-Line Execution: Enabled the program to be executed directly from the command line, enhancing accessibility and usability.]**
-<!-- GETTING STARTED -->
+- Create Solver Class.
+- Create tests for methods from Solver class.
+- Create methods for Solver class.
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 
 ## 💻 Getting Started <a name="getting-started"></a>
 
