@@ -138,7 +138,7 @@ Example:
 - Twitter: [@twitterhandle](https://twitter.com/imberbesi)
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/jlberbesi/)
 
-👤 **Carlos**
+👤 **Carlos Zambrano**
 
 - GitHub: [@githubhandle](https://github.com/CarlosZ96)
 - Twitter: [@twitterhandle](https://twitter.com/ELZambrano2)
