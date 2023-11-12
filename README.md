@@ -150,10 +150,10 @@ Example:
 - Twitter: [@twitterhandle](https://twitter.com/imberbesi)
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/jlberbesi/)
 
-👤 **Carlos**
+👤 **Carlos Zambrano**
 
-- GitHub: [@jlcarrascof](https://github.com/)
-- Twitter: [@javiersistemas](https://twitter.com/)
+- GitHub: [@](https://github.com/)
+- Twitter: [@](https://twitter.com/)
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
